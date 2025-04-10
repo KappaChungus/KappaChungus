@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am PJATK student
+I am PJATK student.
 I like to code ☺️
 
 ## 🛠️ Skills  
